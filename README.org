@@ -1,0 +1,13 @@
+* Konwerter UART
+
+Konwerter stanów logicznych w magistrali UART.
+Więcej na [wiki](http://wiki.hackerspace-krk.pl/projekty/konwerter-UART)
+
+** Chcę to wrzucić swoje 3 grosze. Czyli szybka instrucja
+
++ Klonujemy repozytorium
++ Odpalamy `kicad konwerter-UART.pro`
++ Działamy
++ Dodajemy pliki `.sch`, `.net`, `.bak` oraz `.kicad_pcb`
++ Tworzymy Pull Request
++ Profit
