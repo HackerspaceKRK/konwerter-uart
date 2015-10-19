@@ -3,7 +3,7 @@
 Konwerter stanów logicznych w magistrali UART.
 Więcej na [wiki](http://wiki.hackerspace-krk.pl/projekty/konwerter-UART)
 
-** Chcę to wrzucić swoje 3 grosze. Czyli szybka instrucja
+** Chcę to wrzucić swoje 3 grosze. Czyli szybka instrukcja
 
 + Klonujemy repozytorium
 + Odpalamy `kicad konwerter-UART.pro`
